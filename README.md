@@ -1,5 +1,7 @@
 # Portfolio
-This is my personal Portfolio developed using html and css
+This is my personal Portfolio developed using html and css.
+
+
 Here is the link to the portfolio website: https://sushmakoteswari.github.io/Portfolio/
 <img width="1440" alt="Screenshot 2023-05-14 at 5 30 58 PM" src="https://github.com/sushmakoteswari/Portfolio/assets/93698513/b1722811-0220-42dd-b619-4004595d3e96">
 <img width="1440" alt="Screenshot 2023-05-14 at 5 31 09 PM" src="https://github.com/sushmakoteswari/Portfolio/assets/93698513/c21596cb-30d9-4c88-a987-934afe623c09">
